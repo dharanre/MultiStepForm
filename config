@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = https://<your-github-dharanre>:<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>@github.com/<your-github-dharanre>/<MultiStepForm>.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
